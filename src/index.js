@@ -1,3 +1,4 @@
 import BaseStore from "./BaseStore";
+import BaseModel from "./BaseModel";
 
-export default BaseStore
+export { BaseStore, BaseModel }
